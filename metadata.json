@@ -1,0 +1,5 @@
+{
+  "name": "CV Interactif de Bruno Mineo",
+  "description": "Une application web interactive pour présenter le CV de Bruno Mineo, incluant un outil de matching de poste basé sur l'IA.",
+  "requestFramePermissions": []
+}
